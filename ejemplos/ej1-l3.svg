@@ -1,0 +1,41 @@
+<!-- Comienzo del documento  -->
+<!-- Con los atributos `width` y `height` se define el tamaño de la página 
+     que contiene el dibujo
+-->  
+ <svg width="300" height="130" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Dibujar un rectángulo azul 
+   Atributos:  
+     * x,y: Coordenadas del punto superior izquierdo del rectangulo 
+     * width, height: Anchura y altura del rectángulo 
+     * fill: Color del relleno del rectángulo 
+  -->
+  <rect width="20" height="10" x="10" y="10" fill="blue" />
+
+  <!-- Rectángulo con esquinas redondeadas -->
+  <rect x="10" y="25" width="20" height="10"  rx="5" fill="green" />
+
+  <!-- Círculo -->
+  <circle cx="50" cy="15" r="5" fill="yellow" />
+
+  <!-- Elipse -->
+  <ellipse rx="10" ry="5" cx="50" cy="30" fill="orange"/>
+
+  <!-- Línea recta -->
+  <line x1="60" y1="10" x2="80" y2="20" stroke="red" />
+
+  <!-- Polígono -->
+  <polygon points="85,10 100,10 85,25" fill="blue" stroke="black" />
+
+  <!--  -->
+  <polyline points="0,0 50,150 100,75 150,50 200,140 250,140" 
+     fill="none" stroke="green"/>
+
+  <text x="50" y="100" fill="green">SVG</text>
+  <text x="65" y="55" class="small">SVG</text>
+
+
+
+
+
+</svg> 
