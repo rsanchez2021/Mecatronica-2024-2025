@@ -22,22 +22,20 @@ Esta seccion abarca desde la L3-L5. Durante el laboratorio 3 se nos explico el f
 
 Ademas, se explico brevemente el programa Inkscape, que se termino de explicar en las siguientes clases de laboratorio. Algunas imagenes de los retos de los siguientes laboratorios:
 
-![alt text](mec_l7-1.jpeg)
+![alt text](media/mec_l7-1.jpeg)
 
-![alt text](mec_l7_2.jpeg)
+![alt text](media/mec_l7_2.jpeg)
 
-![alt text](mec_l7_3.jpeg)
+![alt text](media/mec_l7_3.jpeg)
 
-![alt text](mec_l7_4.jpeg)
+![alt text](media/mec_l7_4.jpeg)
 
 ## Diseño 3D
 
 Este apartado abarca desde el L6-L9. En la primera sesion se explico lo necesario para usar FreeCAD y la geometria constructiva. En la segunda sesion (L7) se nos explico los bocetos (sketcher) y como poder extruir de diferentes formas. Algunos ejemplos:
 
+AÑAdir video L6, los de la l7 fallan
 
-<video controls src="media/mecatronica_L7_reto2.mp4" title="Reto 2"></video>
-
-<video controls src="media/mecatronica_L7_reto4.mp4" title="Reto 4"></video>
 
 En el directorio **media** se pueden ver mas ejemplos y retos realizados. 
 
@@ -59,9 +57,12 @@ Esta parte de la asignatura se ha explicado el programa Kicad y sus funciones ba
 
 Durante las ultimas sesiones de laboratorio (L15-L18) se ha usado la placa Alhambra II, que tiene una FPGA. A continuacion hay varios videos de ejemplos de como se han ido creando los diferentes retos y ejemplos, en la carpeta **media** se pueden encontrar mas:
 
-Reto 4 Laboratorio 16
+Retos Laboratorio 16-17
 
-<video controls src="media/mecatronica_L16-reto4.mp4" title="Reto 4"></video>
+![WhatsApp Image 2024-12-12 at 20 37 30(1)](https://github.com/user-attachments/assets/6f0ddb62-7d27-4add-913b-09ab2e37cef9)
 
-<video controls src="media/mec_l16_reto4.mp4" title="Title"></video>
 
+https://github.com/user-attachments/assets/88a79583-8e32-4588-bc7b-9aaf01ec0d95
+
+
+![WhatsApp Image 2024-12-12 at 20 37 30](https://github.com/user-attachments/assets/912a8c9b-046f-450b-b5a8-639f7709b8fb)
